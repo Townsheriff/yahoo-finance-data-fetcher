@@ -1,0 +1,12 @@
+{
+  "name": "yahoo-finance-data-fetcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Arturs Valenieks",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^3.1.0",
+    "request": "^2.83.0"
+  }
+}
